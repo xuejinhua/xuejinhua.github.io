@@ -47,7 +47,7 @@ plugins:
 
 author:
   name   : "Jinhua Xue"
-  avatar : "/assets/images/bio-photo.png"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Yesterday is history, tomorrow is mystery, and today is a gift, so we call it present."
   links:
     - label: "柠檬炖火腿"
