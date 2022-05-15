@@ -1,10 +1,6 @@
-_site
-.sass-cache
-.jekyll-metadata
-Gemfile.lock
-
-### IntelliJ IDEA ###
+_site/
+.sass-cache/
+*.DS_Store
 .idea
-*.iws
-*.iml
-*.ipr
+*.swp
+.Trashes
